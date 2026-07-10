@@ -1,3 +1,8 @@
-aiogram==3.7.0
-pandas
-openpyxl
+
+python-telegram-bot==22.2
+fastapi==0.115.12
+uvicorn==0.34.3
+pydantic==2.10.6
+pydantic-core==2.27.2
+httpx==0.28.1
+python-dotenv==1.0.1
